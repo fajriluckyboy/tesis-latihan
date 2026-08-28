@@ -17,7 +17,11 @@ Bagaimana penerapan Git dan GitHub dapat membantu
 proses penulisan kolaboratif menjadi lebih terstruktur,
 mudah dilacak perubahannya, serta memungkinkan revisi
 dilakukan secara paralel oleh lebih dari satu penulis
-tanpa menimbulkan konflik data.
+tanpa menimbulkan konflik data. Sebagai contoh, dua
+penulis dapat merevisi bab yang berbeda secara
+bersamaan tanpa saling menimpa perubahan satu sama
+lain, karena setiap revisi tercatat sebagai commit
+yang terpisah dan dapat digabungkan secara terstruktur.
 
 ## Tujuan Penulisan
 
