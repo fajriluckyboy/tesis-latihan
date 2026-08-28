@@ -1,0 +1,25 @@
+# Bab 1: Pendahuluan
+
+## Latar Belakang
+
+Perkembangan teknologi version control seperti Git
+tidak hanya bermanfaat untuk pengembangan perangkat
+lunak, tetapi juga dapat diterapkan pada berbagai
+bidang lain, termasuk penulisan naskah akademik.
+Kolaborasi antara penulis dan pembimbing sering kali
+terkendala oleh proses revisi yang tidak terstruktur,
+seperti pengiriman file berulang kali melalui email
+tanpa jejak perubahan yang jelas.
+
+## Rumusan Masalah
+
+Bagaimana penerapan Git dan GitHub dapat membantu
+proses penulisan kolaboratif menjadi lebih terstruktur
+dan mudah dilacak perubahannya.
+
+## Tujuan Penulisan
+
+Penulisan ini bertujuan untuk mendemonstrasikan alur
+kerja kolaboratif menggunakan branch, Pull Request,
+dan review, yang diterapkan pada konteks penulisan
+naskah, bukan kode program.
