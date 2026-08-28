@@ -14,8 +14,10 @@ tanpa jejak perubahan yang jelas.
 ## Rumusan Masalah
 
 Bagaimana penerapan Git dan GitHub dapat membantu
-proses penulisan kolaboratif menjadi lebih terstruktur
-dan mudah dilacak perubahannya.
+proses penulisan kolaboratif menjadi lebih terstruktur,
+mudah dilacak perubahannya, serta memungkinkan revisi
+dilakukan secara paralel oleh lebih dari satu penulis
+tanpa menimbulkan konflik data.
 
 ## Tujuan Penulisan
 
